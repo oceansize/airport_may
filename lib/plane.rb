@@ -1,7 +1,7 @@
 class Plane
 
   def initialize(name = 'ID: Default')
-    @airborne = false
+    @airborne   = false
     @plane_name = name
   end
 
